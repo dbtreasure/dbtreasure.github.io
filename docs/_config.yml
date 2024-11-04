@@ -30,7 +30,7 @@ twitter_username: dan__treasure
 github_username: dbtreasure
 
 # Build settings
-theme: no-style-please
+theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
